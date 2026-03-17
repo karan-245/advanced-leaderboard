@@ -40,12 +40,11 @@ The system provides the following features:
 - Java
 - Spring Boot
 - Maven
-- H2 Database
 
 ### Frontend
 - HTML
 - CSS
 - JavaScript
-- Chart.js
+
 
 
